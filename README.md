@@ -1,4 +1,4 @@
- ##Hi there 👋
+ Hi there 👋
 - 🔭 I’m currently working on Java Script
 - 🌱 I’m currently learning React JS
 - 🤔 I’m looking for help with React JS
