@@ -1,4 +1,4 @@
-<div align="">
+<div align="center">
 
 <img src="./terminal-img.svg" alt="Developer Specs" width="760"/>
 
