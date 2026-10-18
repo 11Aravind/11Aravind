@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./terminal-card.svg" alt="Developer Specs" width="760"/>
+<img src="./u-n.svg" alt="Developer Specs" width="760"/>
 
 <br/><br/>
 
