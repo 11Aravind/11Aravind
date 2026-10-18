@@ -1,21 +1,15 @@
-## `> SYSTEM PROFILE`
+<div align="center">
 
-**Aravind AS** — Freelance Software Engineer
+<img src="./terminal-card.svg" alt="Developer Specs" width="760"/>
 
-I build web and mobile products, from frontend interfaces to backend APIs and integrations.
+<br/><br/>
 
-**STACK**
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://your-portfolio-url.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/yourusername)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yourusername)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d29922)](mailto:your-email@example.com)
 
-`React.js` · `Next.js` · `React Native` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB`
-
-**SELECTED WORK**
-
-- [Portfolio](https://aravind-portfolio-ywp9.vercel.app/)
-- [Repositories](https://github.com/11Aravind?tab=repositories)
-- [LinkedIn](https://linkedin.com/in/aravind-as)
-
-**STATUS:** Open to freelance projects
-
-```text
-$ build something useful_
-```
+</div>
