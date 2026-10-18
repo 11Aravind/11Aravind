@@ -2,7 +2,8 @@
 
 <img src="./terminal-img.svg" alt="Developer Specs" width="760"/>
 
-<br/>
+<br/><br/>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://aravind-portfolio-ywp9.vercel.app/)
 &nbsp;
